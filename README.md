@@ -21,9 +21,9 @@
 <br><br> -->
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="grid-snake-light.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/czampath/czampath/main/grid-snake-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cz-git-anim.vercel.app/api/animated-commits?username=czampath&isDark=true&duration=1&style=sds" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cz-git-anim.vercel.app/api/animated-commits?username=czampath&isDark=false&duration=1&style=sds" />
+      <img src="https://cz-git-anim.vercel.app/api/animated-commits?username=czampath&isDark=false&duration=1&style=sds" />
     </picture>
 </div>
 
